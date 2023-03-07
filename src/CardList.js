@@ -4,7 +4,7 @@ import Card from './Card.js';
 
 const CardList = ({pokemon}) => {
     return (
-        <div>
+        <div className='fl w-100'>
             {
                 pokemon.map((user, i) => {
                     return (
