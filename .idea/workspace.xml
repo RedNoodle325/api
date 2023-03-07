@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d812400-6fac-4889-a122-ec02bc096cef" name="Changes" comment="gh pages">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.bc728668.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.bc728668.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.bc728668.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CardList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +76,8 @@
       <workItem from="1678161932508" duration="857000" />
       <workItem from="1678163265746" duration="408000" />
       <workItem from="1678164022760" duration="111000" />
-      <workItem from="1678164292216" duration="90000" />
+      <workItem from="1678164292216" duration="189000" />
+      <workItem from="1678164630914" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="gh pages">
       <created>1678162206572</created>
@@ -111,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678162773246</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="gh pages">
+      <created>1678164392972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678164392972</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
