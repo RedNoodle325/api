@@ -35,7 +35,7 @@ class App extends Component {
             return !this.state.pokemon.length ?
                 <h1>Loading</h1> :
                 (
-                    <div className='tc pa1 dib bg-purple gold code'>
+                    <div className='tc w-100 pa1 dib bg-purple gold code'>
                         <h1 className='f1'>Pokemon</h1>
                         <SearchBox searchChange={this.onSearchChange} />
                         <Scroll>
